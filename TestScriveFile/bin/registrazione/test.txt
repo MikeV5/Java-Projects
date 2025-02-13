@@ -1,0 +1,4 @@
+admin2;2;playlist1;1;21 Guns£Green Day£15/05/2009;1;datiCanzone-Solemnity-2--Nostalgia-5--;playlist2;2;canzone1;1;tessdsdft;canzone2;0;datiCanzone;
+admin3;2;playlist1;2;21 Guns£Green Day£15/05/2009;1;datiCanzone-Solemnity-4--Nostalgia-4--Power-4--Tension-4--;canzone2;0;datiCanzone;playlist2;1;canzone1;0;datiCanzone;
+admin3;2;playlist1;2;21 Guns£Green Day£15/05/2009;1;datiCanzone-Solemnity-5--Nostalgia-2--Power-1--Tension-3--;21 Guns£Green Day£15/05/2009;1;datiCanzone-Solemnity-5--Nostalgia-2--Power-1--Tension-3--;
+admin4;2;playlist1;2;21 Guns£Green Day£15/05/2009;1;datiCanzone-Solemnity-4--Nostalgia-4--Power-4--Tension-4--;canzone2;0;datiCanzone;playlist2;1;canzone1;0;datiCanzone;

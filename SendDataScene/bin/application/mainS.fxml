@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="650.0" prefWidth="450.0" style="-fx-background-color: #25273e;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Login">
+   <children>
+      <Button fx:id="buttonAccedi" layoutX="148.0" layoutY="405.0" mnemonicParsing="false" onAction="#userLogin" prefHeight="39.0" prefWidth="156.0" style="-fx-background-color: #ee3a57;" text="Accedi" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Button>
+      <Button fx:id="buttonRegistrati" layoutX="148.0" layoutY="471.0" mnemonicParsing="false" onAction="#userRegistrazione" prefHeight="39.0" prefWidth="156.0" style="-fx-background-color: #ee3a57;" text="Registrati" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Button>
+      <Label fx:id="testLabel" layoutX="85.0" layoutY="101.0" prefHeight="50.0" prefWidth="129.0" text="Accedi" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="34.0" />
+         </font>
+      </Label>
+      <TextField fx:id="username" layoutX="79.0" layoutY="192.0" prefHeight="33.0" prefWidth="294.0" promptText="Username" style="-fx-background-color: #25273e; -fx-border-color: #ee3a57; -fx-text-fill: #fafcf7; -fx-border-radius: 15;">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </TextField>
+      <PasswordField fx:id="password" layoutX="79.0" layoutY="256.0" prefHeight="25.0" prefWidth="294.0" promptText="Password" style="-fx-border-color: #ee3a57; -fx-background-color: #25273e; -fx-border-radius: 15; -fx-text-fill: #fafcf7;">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </PasswordField>
+      <Label fx:id="wrongLogin" layoutX="79.0" layoutY="306.0" prefHeight="17.0" prefWidth="294.0" textFill="#fc0000">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Button fx:id="buttonConsulta" layoutX="73.0" layoutY="337.0" mnemonicParsing="false" onAction="#userConsulta" prefHeight="39.0" prefWidth="305.0" style="-fx-background-color: #ee3a57;" text="Consulta informazioni di canzoni" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Button>
+   </children>
+   <opaqueInsets>
+      <Insets />
+   </opaqueInsets>
+</AnchorPane>

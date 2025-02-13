@@ -1,0 +1,6 @@
+nomeUser1;nomePlaylist1;nomeCanzone1;nomeCanzone2
+nomeUser2;nomePlaylist2;nomeCanzone1;nomeCanzone2
+nomeUser3;nomePlaylist3;nomeCanzone1;nomeCanzone2
+nomeUser4;nomePlaylist4;nomeCanzone1;nomeCanzone2
+a;nomePlaylist5;nomeCanzone1;nomeCanzone2
+miguel;nomePlaylist6;nomeCanzone1;nomeCanzone2

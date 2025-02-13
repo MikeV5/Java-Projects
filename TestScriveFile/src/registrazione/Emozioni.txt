@@ -1,0 +1,5 @@
+nomeUser1;3;nomePlaylist1;2;8rosk1 - feat. Mahmood|tha Supreme, Mahmood|31/07/2020;nomeCanzone2;nomePlaylist2;3;nomeCanzone1;nomeCanzone2;canzone3;nomePlaylist3;0
+nomeUser2;4;nomePlaylist1;4;nomeCanzone1;nomeCanzone2;canzone3;canzone4;nomePlaylist2;2;nomeCanzone1;nomeCanzone2;nomePlaylist3;1;canzone1;nomePlaylist4;2;canzone1;canzone2
+nomeUser3;2;nomePlaylist1;3;nomeCanzone1;nomeCanzone2;canzone2;nomePlaylist2;1;canzone1;
+nomeUser4;6;nomePlaylist1;4;8rosk1 - feat. Mahmood£tha Supreme, Mahmood£31/07/2020;Careless Whisper£George Michael£25/11/1986;Centerfield£John Fogerty£1985;C'est la vie£Achille Lauro£25/09/2020;nomePlaylist2;2;canzone1;canzone2;nomePlaylist3;1;canzone1;nomePlaylist4;3;canzone1;canzone2;canzone3;nomePlaylist5;0;nomePlaylist6;0
+nomeUser5;5;nomePlaylist1;1;canzone1;nomePlaylist2;2;canzone1;canzone2;nomePlaylist3;1;canzone1;nomePlaylist4;0;nomePlaylist5;0;
